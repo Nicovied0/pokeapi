@@ -17,6 +17,12 @@ h1{
   text-align: center;
   color: #fff;
 }
+.copy{
+  color: #fff;
+  margin: 0 auto;
+  text-align: center;
+  padding: 3rem;
+}
 .rock {
   background-color: rgb(148, 81, 81);
 }
